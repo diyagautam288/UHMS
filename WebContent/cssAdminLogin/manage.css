@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+.empMbutton{
+	width:50%;
+    padding:10px;
+    margin:25px;
+    border:1px solid #057a8d;
+    background-color:#0c8195;
+    color:#f0f8ff;
+}
+.empMbutton a{
+	font-size:
+}
+.empMbutton:hover{
+	font-weight:bold;
+	background-color:#f1c111;
+}

@@ -1,0 +1,60 @@
+#changePassform
+{
+    height:100px;
+    margin-top: 10%;
+    align-content: center;
+}
+input
+{
+  width:215px;
+  margin:0;
+  border:0;
+  border-left:1px solid;
+  border-right:1px solid;
+  outline:none;
+  height:50px;
+  font-size:20px;
+  padding-left:10px;
+}
+input#passOne
+{
+  border-top:1px solid;
+  border-radius:15px 15px 0px 0px;
+  -webkit-border-radius:15px 15px 0px 0px;
+  -moz-border-radius:15px 15px 0px 0px;
+}
+input#passTwo
+{
+  border-bottom:1px solid;
+  border-top:1px solid;
+  
+  border-radius:0px 0px 15px 15px;
+  -webkit-border-radius:0px 0px 15px 15px;
+  -moz-border-radius:0px 0px 15px 15px;
+}
+#footer
+{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+#footer.incorrect
+{
+  background-color:cornflowerblue;
+  font-family: 'Francois One', sans-serif;
+  width:auto;
+  color:white; 
+  border-radius: 0px 0px 15px 15px;
+  -webkit-border-radius: 0px 0px 15px 15px;
+  -moz-border-radius: 0px 0px 15px 15px;
+}
+#footer.correct
+{
+  background-color:cadetblue;
+  font-family: 'Francois One', sans-serif;
+  width:auto;
+  color:white;
+  cursor:pointer;  
+  border-radius: 0px 0px 15px 15px;
+  -webkit-border-radius: 0px 0px 15px 15px;
+  -moz-border-radius: 0px 0px 15px 15px;
+}

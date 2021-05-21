@@ -1,0 +1,8 @@
+@CHARSET "ISO-8859-1";
+.txtBox{
+	background-color:#f0f8ff;
+	border: 1px solid #404040;
+	color:#404040; 
+	padding:10px;
+	margin:10px;
+}
